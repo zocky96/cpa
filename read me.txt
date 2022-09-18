@@ -1,0 +1,3 @@
+user name = zock
+passwod = 1234
+pre-requis : mysql
